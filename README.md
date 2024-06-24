@@ -12,3 +12,4 @@ django rest framework: 3.15.2
 npm: 10.7.0
 node: 20.15.0
 react : 18.3.1
+tailwindcss : 3.4.4
